@@ -2,7 +2,7 @@
 
 ---
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/53491512/216845756-3cad870e-e9fc-4a92-86a7-b7bdf02ffb81.png" width="100%" title="Intro Card" alt="Intro Card"> 
+<img src="https://user-images.githubusercontent.com/53491512/218277230-9721f147-cf19-4d02-b7e0-194617cfa281.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 🔥 Soy un Ingeniero de la Carrera en Sistemas 💻 y estoy entrando de lleno al BackEnd 💾📀📈
