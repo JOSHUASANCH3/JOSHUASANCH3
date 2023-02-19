@@ -8,7 +8,7 @@
 🔥 Soy un Ingeniero de la Carrera en Sistemas 💻 y estoy entrando de lleno al BackEnd 💾📀📈
 🔥 Tambien quiero aprender hacer diseño grafico para web 🎨📆📈
 
- 🔭 Estoy planeando un proyecto **Una BD y pagina con DOOM**.
+ 🔭 Estoy planeando un proyecto **Una BD y pagina con DOOM** y **Realizando un miniproyecto en Java todavia no defino el rumbo**
  
  🌱 Actualmente estoy aprendiendo  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> **-** <img src="https://img.shields.io/badge/-Spring-green"> **-** <img src="https://img.shields.io/badge/-JUnit-brightgreen"> **-** <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> **-** <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> **-** <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> **-** <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> **-** <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
  
