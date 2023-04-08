@@ -21,7 +21,14 @@
 ---
 
 ### Mis estadisticas de GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JOSHUASANCH3)](https://github.com/JOSHUASANCH3/github-readme-stats)
+<br/>
+
+<a href="https://github.com/README.md">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOSHUASANCH3&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSHUASANCH3&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 ---
 
