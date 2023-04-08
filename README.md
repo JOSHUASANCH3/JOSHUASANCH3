@@ -21,7 +21,7 @@
 ---
 
 ### Mis estadisticas de GitHub
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MancowithLag)](https://github.com/MancowithLag/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JOSHUASANCH3)](https://github.com/JOSHUASANCH3/github-readme-stats)
 
 ---
 
