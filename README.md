@@ -1,4 +1,4 @@
-### Hola, Soy Joshua 👋
+### Hola, Soy Joshua Sanchez 👋
 
 ---
 <p align="center"> 
