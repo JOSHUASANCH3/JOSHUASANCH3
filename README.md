@@ -58,9 +58,9 @@
 
 ---
 
-[website]: https://github.com/MancowithLag
+[website]: https://github.com/JOSHUASANCH3
 [twitter]: https://twitter.com/JOSHUASANCH3
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/joshuasanch3/
 [linkedin]: https://www.linkedin.com/in/joshuasanchezgaray/
 [medium]: https://medium.com/
