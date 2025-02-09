@@ -3,23 +3,47 @@
 <img src="https://user-images.githubusercontent.com/53491512/218277230-9721f147-cf19-4d02-b7e0-194617cfa281.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-🔥 Soy un Ingeniero de la Carrera en Sistemas 💻
+---
 
-🔥 Tambien quiero aprender hacer diseño grafico para web 🎨📆📈
-
-🔭 Estoy planeando un proyecto **Una BD y pagina con DOOM** y **Realizando un miniproyecto en Java todavia no defino el rumbo**
-
-🌱 Actualmente estoy aprendiendo  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> **-** <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> **-** <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> **-** <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> **-** <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
- 
- :books: Y luego quiero aprender <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">, <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
- 
- 👯 Actualmente no estoy colaborando solon estoy estudiando 🤙
- 
- 🤔 Busco ayuda con <img src="https://img.shields.io/badge/-ChatGPT-5A0FC8?style=flat"> or <img src="https://img.shields.io/badge/-StackOverflow-5A0FC8?style=flat">
+Seguidor de Programacion ATS </br>
+"Si puedes imaginarlo puedes crearlo"
 
 ---
 
-### Mis estadisticas de GitHub
+<h3> 👨🏻‍💻 &nbsp;Sobre Mi </h3>
+
+- 🙋‍♂️🎓 &nbsp; Estudie en la UNI(Universidad Nacional de Ingeneria) de Managua, Nicaragua 2023
+- 💻📚 &nbsp; El aprendizaje genera cambios para seguir evolucionando (solo que procrastino mucho)
+- 💼👷‍♀️ &nbsp; Actualmente trabajando como Administrador Bodegas
+- 🌱📈 &nbsp; Estudiando FullBackEnd como lenguaje rama ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ✍️🎨 &nbsp; Habilidades de diseño nulas
+
+---
+
+<h3> 🛠 &nbsp;Aprendizaje</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![DeepSheek](https://img.shields.io/badge/DeepSeek-Inteligencia_Artificial-blue?logo=deepseek&logoColor=white)
+
+<br/>
+
+---
+
+### Actividad en GitHUb
 <br/>
 <div align="center">
  <a href="https://github.com/README.md">
@@ -31,36 +55,11 @@
 
 ---
 
-### Tecnologias y Herramientas de Preferencia
-<div align="center">
- <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Figma-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-</div>
-
----
-
-### Mis redes sociales 🌍
-[<img align="left" alt="JOSHUASANCH3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JOSHUASANCH3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JOSHUASANCH3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3> 🤝🏻 &nbsp;Encuéntrame en: </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/joshuasanch3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joshua%20Sanchez-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/joshuasanch3/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://x.com/JOSHUASANCH3"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"></a>
+</p>
 
 <br/>
-
-
----
-
-[website]: https://github.com/JOSHUASANCH3
-[twitter]: https://twitter.com/JOSHUASANCH3
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/joshuasanch3/
-[linkedin]: https://www.linkedin.com/in/joshuasanchezgaray/
-[medium]: https://medium.com/
